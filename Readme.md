@@ -1,0 +1,1 @@
+# A repository with coding exercises to practice for the job interview
