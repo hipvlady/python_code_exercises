@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8de36e9f-7b49-4795-9095-cb0c07f7ece3" name="Changes" comment="sorted_squared_array readme" />
+    <list default="true" id="8de36e9f-7b49-4795-9095-cb0c07f7ece3" name="Changes" comment="jupyter numpy basic operations">
+      <change afterPath="$PROJECT_DIR$/sorted_squared_array/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +27,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681805466675</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jupyter numpy basic operations">
+      <created>1682332382694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682332382694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +94,7 @@
     <MESSAGE value="validate_subsequence_easy INIT" />
     <MESSAGE value="two_number_sum INIT" />
     <MESSAGE value="sorted_squared_array readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorted_squared_array readme" />
+    <MESSAGE value="jupyter numpy basic operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="jupyter numpy basic operations" />
   </component>
 </project>
