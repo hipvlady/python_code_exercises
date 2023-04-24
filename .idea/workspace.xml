@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8de36e9f-7b49-4795-9095-cb0c07f7ece3" name="Changes" comment="jupyter numpy basic operations">
-      <change afterPath="$PROJECT_DIR$/sorted_squared_array/main.py" afterDir="false" />
+    <list default="true" id="8de36e9f-7b49-4795-9095-cb0c07f7ece3" name="Changes" comment="squared_array challange">
+      <change afterPath="$PROJECT_DIR$/tournament winner/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/coding_exercises" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682332382694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="squared_array challange">
+      <created>1682361419252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682361419252</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +108,7 @@
     <MESSAGE value="two_number_sum INIT" />
     <MESSAGE value="sorted_squared_array readme" />
     <MESSAGE value="jupyter numpy basic operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="jupyter numpy basic operations" />
+    <MESSAGE value="squared_array challange" />
+    <option name="LAST_COMMIT_MESSAGE" value="squared_array challange" />
   </component>
 </project>
